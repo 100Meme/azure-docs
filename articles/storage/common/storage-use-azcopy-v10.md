@@ -18,7 +18,18 @@ AzCopy is a command-line utility that you can use to copy blobs or files to or f
 > [!NOTE]
 > AzCopy **V10** is the currently supported version of AzCopy. The tool is not supported on versions of Windows, Linux, or macOS that are no longer officially maintained.
 > 
-> If you need to use a previous version of AzCopy, see the [Use the previous version of AzCopy](#previous-version) section of this article.
+> If you need to use a previous version of AzCopy, see the [Use the previous version of AzCopy](#pr{
+  "PreviewRun": true,{
+  "PreviewRun": true,
+  "YamlOverride": "
+# your new YAML here, optionally
+"
+}![1000001705](https://github.com/user-attachments/assets/da12cca4-8a60-4f91-99cc-87718c7d7320)
+
+  "YamlOverride": "
+# your new YAML here, opti![1000001705](https://github.com/user-attachments/assets/152a1bde-afc1-4b9a-9d1e-04590845d1e2)
+![1000001706](https://github.com/user-attachments/assets/c46fb348-1f51-4b37-944f-1bf21b7bc449)
+evious-version) section of this article.
 
 <a id="download-and-install-azcopy"></a>This video shows you how to download and run the AzCopy utility.
 
@@ -350,7 +361,27 @@ See any of the following resources:
 
 - [Find errors and resume jobs by using log and plan files in AzCopy](storage-use-azcopy-configure.md)
 
-- [Troubleshoot problems with AzCopy v10](storage-use-azcopy-troubleshoot.md)
+- [Troubleshoot problems with AzCopy v10](storage-use-azcopy-troublesho{
+  "PreviewRun": true,
+  "YamlOverride": "
+# your new YAML here, optionally
+"
+}{{
+  "PreviewRun": true,
+  "YamlOverride": "
+# your new YAML here, optionally
+"
+}{
+  "PreviewRun": true,
+  "YamlOverride": "
+# your new YAML here, optionally
+"
+}
+  "PreviewRun": true,
+  "YamlOverride": "
+# your new YAML here, optionally
+"
+}ot.md)
 
 ## Use a previous version (deprecated)
 
